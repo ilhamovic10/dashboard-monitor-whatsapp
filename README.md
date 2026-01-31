@@ -280,7 +280,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Mujahid Latiff**
+**Elham1x0**
 
 ## 🙏 Acknowledgments
 
@@ -295,7 +295,7 @@ If you encounter any issues:
 1. Check the [Troubleshooting](#-troubleshooting) section
 2. Review `dashboard_monitor.log` for errors
 3. Open an issue on GitHub
-4. Contact: [your-email@example.com]
+4. Contact: [ilhami.hanafiah@gmail.com]
 
 ## ⚠️ Disclaimer
 
@@ -308,6 +308,6 @@ Use responsibly and in accordance with all applicable terms of service.
 
 ---
 
-**Made with ❤️ by Mujahid Latiff**
+**Made with ❤️ by Elham1x0**
 
 **⭐ Star this repo if you find it useful!**
