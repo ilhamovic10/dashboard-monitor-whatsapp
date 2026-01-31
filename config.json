@@ -1,0 +1,22 @@
+{
+  "dashboard_url": "http://localhost:3000/dashboard",
+  "screenshot_dir": "screenshots",
+  "interval_minutes": 30,
+  "whatsapp_group_name": "Dashboard Monitoring",
+  "chrome_shortcut_key": "alt+shift+p",
+  "delays": {
+    "browser_load": 5,
+    "screenshot_capture": 3,
+    "whatsapp_load": 3,
+    "message_send": 2
+  },
+  "gofullpage": {
+    "shortcut": "alt+shift+p",
+    "wait_time": 3
+  },
+  "whatsapp": {
+    "search_delay": 1,
+    "attach_delay": 1,
+    "send_delay": 2
+  }
+}
